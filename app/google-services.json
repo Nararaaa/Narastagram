@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558234422554",
+    "project_id": "narastagram-90d53",
+    "storage_bucket": "narastagram-90d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558234422554:android:6f70777361640efc1e70a3",
+        "android_client_info": {
+          "package_name": "com.example.narastagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558234422554-gdlf1f76nnmsftkodm0k7jd2050l89lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPn2txGjaQlLn-6WwBsy3XaiCrtsMhGCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558234422554-gdlf1f76nnmsftkodm0k7jd2050l89lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
